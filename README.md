@@ -1,2 +1,1 @@
-# MFWEBAPI
-INFO
+# InfoDev.MutualFund
