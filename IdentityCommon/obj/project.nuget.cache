@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tc8oAV08IIc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IshworKhatiwada\\Desktop\\learning's\\MutualFund\\IdentityCommon\\IdentityCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IshworKhatiwada\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\IshworKhatiwada\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\IshworKhatiwada\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
